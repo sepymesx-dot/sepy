@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sepymesx-dot.github.io/sepy/sitemap.xml
+Sitemap: https://sepymesx-dot.github.io/sitemap.xml
